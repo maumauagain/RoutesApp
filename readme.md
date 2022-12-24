@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img height="100" width="100" src="./mobile/assets/iconWheel.png" alt="logo" />
+    <img height="100" width="100" src="./media/iconWheel.png" alt="logo" />
 </h1>
 
 <h1 align="center">
